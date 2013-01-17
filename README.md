@@ -19,7 +19,7 @@ Notes
 2 ^ 3
 -- exponential 
 2 ** 2.3
-``
+```
 --  lost notes before (from page 12)   --
 --  --  --  --  --  --  --  --  --  -- --
 
